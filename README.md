@@ -9,12 +9,3 @@ A simple image classification project using TensorFlow and Keras to identify clo
 [![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-yellow)]()
 
 
-tensorflow
-
-deep-learning
-
-image-classification
-
-fashion-mnist
-
-keras

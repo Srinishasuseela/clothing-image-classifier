@@ -8,6 +8,13 @@ A simple image classification project using TensorFlow and Keras to identify clo
 [![Status](https://img.shields.io/badge/Project%20Status-Active-brightgreen)]()
 [![Platform](https://img.shields.io/badge/Platform-Jupyter%20Notebook-yellow)]()
 
+
 tensorflow
-numpy
-matplotlib
+
+deep-learning
+
+image-classification
+
+fashion-mnist
+
+keras
